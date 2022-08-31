@@ -55,7 +55,7 @@ ROOT_URLCONF = 'proyecto_1.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['C:/Users/Mati/Documents/Python Scripts/MVT+MatiasPoses/templates'],
+        'DIRS': ['C:/Users/Mati/Documents/Python Scripts/MVT+MatiasPoses/proyecto_1/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
